@@ -18,4 +18,4 @@ def such_wow_full(max):
 
 
 if __name__ == "__main__":
-    such_wow_full(100)
+    such_wow_full(101)
